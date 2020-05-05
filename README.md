@@ -1,6 +1,7 @@
 # Xylophone
 
 Xylophone App.
+
 I improved this app adding more instances of AVAudioPlayer in order to achieve the (almost) simultaneous playing of several keys. It looks (and sounds) more natural as for real musical instrument.
 
 Yes, maybe it isn't so DRY, but I didn't find any other way.
